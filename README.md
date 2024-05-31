@@ -20,4 +20,4 @@ The tribute page provides an overview of Dr. Kalam's life, achievements, and his
 
 ## Screenshot
 
-![Tribute Page Screenshot](apj.png)
+![Tribute Page Screenshot](output.png.png)
